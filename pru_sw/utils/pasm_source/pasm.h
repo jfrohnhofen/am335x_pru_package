@@ -126,6 +126,7 @@ extern unsigned int Options;
 #define OPTION_RETREGSET            (1<<8)
 #define OPTION_SOURCELISTING        (1<<9)
 #define OPTION_FBARRAY              (1<<10)
+#define OPTION_GOFILE               (1<<11)
 extern unsigned int Core;
 #define CORE_NONE                   0
 #define CORE_V0                     1
